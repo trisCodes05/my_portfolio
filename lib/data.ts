@@ -4,6 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import fitness from "@/public/fitness.png";
 import linkedin from "@/public/linkedin.png";
+import trektryst from '@/public/travelapp.png'
 
 export const links = [
   {
@@ -73,6 +74,13 @@ export const projectsData = [
       "GetFit has a functionality to choose exercise category and specific muscle groups. Able to briwse more than 1000 exercises with practical example, Pagination and exercise detail.",
     tags: ["React(version 18)"," Material UI (version 5)", "Rapid API"],
     imageUrl: fitness,
+  },
+  {
+    title: `"TrekTryst"`,
+    description:
+      "A travel app built with NextJS, TailwindCSS and TypeScript. Created with reusable components and mobile-first approach for maximum responsiveness . A landing page with a camp section featuring various camps to explore, an engaging travel guide section ,etc",
+    tags: ["NextJS(13)","Tailwind CSS", "TypeScript", "Responsive"],
+    imageUrl: trektryst,
   },
   {
     title: "LinkedIn Clone",
