@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import fitness from "@/public/fitness.png";
 import linkedin from "@/public/linkedin.png";
-import trektryst from '@/public/travelapp.png'
+import trektryst from '@/public/travel_app.png'
 
 export const links = [
   {
@@ -75,6 +75,7 @@ export const projectsData = [
     tags: ["React(version 18)"," Material UI (version 5)", "Rapid API"],
     imageUrl: fitness,
   },
+  
   {
     title: `"TrekTryst"`,
     description:
@@ -82,6 +83,7 @@ export const projectsData = [
     tags: ["NextJS(13)","Tailwind CSS", "TypeScript", "Responsive"],
     imageUrl: trektryst,
   },
+
   {
     title: "LinkedIn Clone",
     description:
