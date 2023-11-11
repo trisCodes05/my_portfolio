@@ -79,8 +79,8 @@ export const projectsData = [
   {
     title: `"TrekTryst"`,
     description:
-      "A travel app built with NextJS(13), Tailwind CSS and TypeScript. Created with reusable components and mobile-first approach for maximum responsiveness . A landing page with a camp section featuring various camps to explore, an engaging travel guide section ,etc",
-    tags: ["NextJS(13)","Tailwind CSS", "TypeScript", "Responsive"],
+      "A travel app built with reusable components and mobile-first approach for maximum responsiveness. A landing page with a camp section, travel guide section featuring various camps to explore.",
+    tags: ["NextJS (13)","Tailwind CSS", "TypeScript"],
     imageUrl: trektryst,
   },
 
